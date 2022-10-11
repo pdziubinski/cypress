@@ -1,0 +1,17 @@
+{
+    "name": "cypress-test-01",
+    "version": "1.0.0",
+    "description": "Pierwszy test",
+    "main": "index.js",
+    "author": "Piotr",
+    "license": "CC BY-NC 4.0",
+    "//": [
+        "https://creativecommons.org/about/cclicenses/"
+    ],
+    "devDependencies": {
+        "cypress": "^10.9.0"
+    },
+    "dependencies": {
+        "cypress": "^10.9.0"
+    }
+}
